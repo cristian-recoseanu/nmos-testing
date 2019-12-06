@@ -1,0 +1,25 @@
+{
+  "name": "nmos-testing",
+  "version": "1.0.0",
+  "description": "This tool creates a simple web service which tests implementations of the NMOS APIs.",
+  "main": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMWA-TV/nmos-testing.git"
+  },
+  "author": "AMWA",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AMWA-TV/nmos-testing/issues"
+  },
+  "homepage": "https://github.com/AMWA-TV/nmos-testing#readme",
+  "dependencies": {
+    "sdpoker": "Streampunk/sdpoker#master"
+  }
+}
